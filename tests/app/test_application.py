@@ -1,4 +1,4 @@
-from pybase.app import Application
+from cleanpykit.app import Application
 
 def test_application_hooks_called():
     called = {"start": False, "stop": False}

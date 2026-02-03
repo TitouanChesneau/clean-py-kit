@@ -1,4 +1,4 @@
-from pybase.utils import retry
+from cleanpykit.utils import retry
 
 def test_retry_success():
     attempts = 0

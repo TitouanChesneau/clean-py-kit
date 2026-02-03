@@ -1,7 +1,6 @@
-import os
 import pytest
 
-from pybase.config import BaseConfig, load_config
+from cleanpykit.config import BaseConfig, load_config
 
 class Config(BaseConfig):
     name: str

@@ -1,4 +1,4 @@
-from pybase.utils import cached
+from cleanpykit.utils import cached
 
 def test_cached_called_once():
     calls = {"n": 0}

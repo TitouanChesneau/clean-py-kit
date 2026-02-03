@@ -1,4 +1,4 @@
-from pybase.utils import timed
+from cleanpykit.utils import timed
 
 class DummyLogger:
     def __init__(self):

@@ -1,4 +1,4 @@
-from pybase.di import Container
+from cleanpykit.di import Container
 
 class A:
     pass

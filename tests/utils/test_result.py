@@ -1,5 +1,5 @@
 import pytest
-from pybase.utils import Result
+from cleanpykit.utils import Result
 
 def test_ok_result():
     r = Result(ok=42)

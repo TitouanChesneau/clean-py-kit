@@ -1,4 +1,4 @@
-from pybase.utils import lazy
+from cleanpykit.utils import lazy
 
 def test_lazy_called_once():
     class A:

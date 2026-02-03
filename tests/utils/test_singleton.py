@@ -1,4 +1,4 @@
-from pybase.utils import singleton
+from cleanpykit.utils import singleton
 
 @singleton
 class SingletonExample:

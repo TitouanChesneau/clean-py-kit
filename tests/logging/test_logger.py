@@ -1,4 +1,4 @@
-from pybase.logging import logger
+from cleanpykit.logging import logger
 
 def test_text_formatter_default():
     log = logger.get_logger("test1", fmt="default", use_color=False)
