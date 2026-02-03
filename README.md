@@ -4,7 +4,7 @@
 
 | | |
 |-|-|
-| Testing | ![Build Status](https://img.shields.io/github/actions/workflow/status/TitouanChesneau/clean-py-kit/tests.yml?branch=master) ![Coverage](https://img.shields.io/codecov/c/gh/TitouanChesneau/clean-py-kit?style=flat-square) | ![PyPI](https://img.shields.io/pypi/v/cleanpykit.svg) ![Downloads](https://img.shields.io/pypi/dm/cleanpykit.svg) |
+| Testing | ![Build Status](https://img.shields.io/github/actions/workflow/status/TitouanChesneau/clean-py-kit/tests.yml?branch=master) ![Coverage](https://img.shields.io/codecov/c/gh/TitouanChesneau/clean-py-kit/master) | ![PyPI](https://img.shields.io/pypi/v/cleanpykit.svg) ![Downloads](https://img.shields.io/pypi/dm/cleanpykit.svg) |
 | Package | ![PyPI version](https://img.shields.io/pypi/v/cleanpykit.svg) ![PyPI downloads](https://img.shields.io/pypi/dm/cleanpykit.svg) ![Status](https://img.shields.io/badge/status-stable-brightgreen) |
 | Info    | ![Python version](https://img.shields.io/badge/python-3.10%2B-blue) ![using pytest](https://img.shields.io/badge/tests-pytest-red) [![Github](https://img.shields.io/badge/github-repo-green?logo=github)](https://github.com/TitouanChesneau/clean-py-kit) ![License](https://img.shields.io/badge/license-MIT-blue.svg) |
 
