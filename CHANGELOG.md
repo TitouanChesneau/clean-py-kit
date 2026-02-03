@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.1.1] - 2026
+
 ## [0.1.0] - 2026-02-03
 ### Added
 - YAML config loading with `BaseConfig` and `load_config`
